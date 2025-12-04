@@ -1,3 +1,4 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -32,3 +33,4 @@ for more information.
 To install the current development version, run the following command:
 
     devtools::install_github("USEPA/CompTox-ToxCast-tcpl")
+
